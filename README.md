@@ -7,7 +7,7 @@
 
 
 
-<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="ayush200230" width=500 height=500 /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="ayush200230" width=450 height=500 /></p>
 
 
 
@@ -41,6 +41,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact :- food and anime are the reasons to live.
 -->
 
+<br>
+<br>
 <br>
 <br>
 
