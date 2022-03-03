@@ -1,3 +1,16 @@
+<p>&nbsp;</P>
+
+
+
+
+<img align="right"  width=100px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+<img align="left"  width=100px height=150px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
+
+
+
+
+<p>&nbsp;</P>
+
 <h1 align="center">Hi 👋, I'm Ayush Garg</h1>
 <h3 align="center">Student at SRMIST, Kattankulathur, CHENNAI🌟.</h3>
 
