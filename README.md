@@ -1,25 +1,34 @@
 <h1 align="center">Hi 👋, I'm Ayush Garg</h1>
 <h3 align="center">Student at SRMIST, Kattankulathur, CHENNAI🌟.</h3>
 
+
+<br>
 <br>
 
-<p align="left"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=ayush200230-pw&label=Profile%20views&color=0e75b6&style=flat"
+
+
+<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="ayush200230" width=500 height=500 /></p>
+
+
+
+<p align="right"> <h3><strong>Profile Views :-</strong></h3> <img src="https://komarev.com/ghpvc/?username=ayush200230-pw&label=Profile%20views&color=0e75b6&style=flat"
     alt="ayush200230" /> 
-  </p>
-
-<br>
-
-<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="ayush200230" /></p>
-
-<br>
+</p>
 
 
-### Hi there 👋
+
+
+## Hi there 👋
 - 🌱 I’m currently learning python language in depth, Web Development(HTML, CSS, JavaScript) and C language.
+
 - 👯 I’m looking to collaborate on python projects to gain experience.
+
 - 🤔 I’m looking for help with my learning.
+
 - 😄 Pronouns: He/Him
+
 - ⚡ Fun fact :- food and anime are the reasons to live.
+
 <!--
 **Ayush200230/Ayush200230** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -32,7 +41,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact :- food and anime are the reasons to live.
 -->
 
-
+<br>
+<br>
 
 <br>
 
