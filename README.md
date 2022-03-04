@@ -20,12 +20,12 @@
 
 
 
-<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="ayush200230" width=450 height=500 /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" alt="Ayush200230" width=450 height=500 /></p>
 
 
 
-<p align="right"> <h3><strong>Profile Views :-</strong></h3> <img src="https://komarev.com/ghpvc/?username=ayush200230-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="ayush200230" /> 
+<p align="right"> <h3><strong>Profile Views :-</strong></h3> <img src="https://komarev.com/ghpvc/?username=Ayush200230&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Ayush200230" /> 
 </p>
 
 
