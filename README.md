@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/ayush-garg-b4a407228/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-garg-b4a407228" height="30" width="40" /></a>
-<a href="mailto:humbleayush30@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="2000_i_k" height="30" width="30" /></fa>
+<a href="mailto:humbleayush30@gmail.com?'Reching out to you'='Hi, I want to enquire about...'" rel="noopener" target="_blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968534.png" alt="2000_i_k" height="35" width="35" /></fa>
 </a>
 <br>
 <br>
